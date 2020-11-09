@@ -4,7 +4,6 @@
 
 <iframe src="https://data.oecd.org/chart/69H7" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69H7" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/4282710"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Description: From 2000- 2018 debt to GDP in over 30 countries has varied greatly. The chart above shows each country's Debt-to-GDP ratio and data. 
 
