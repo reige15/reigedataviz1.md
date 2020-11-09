@@ -26,4 +26,4 @@ Using the same data with multiple methods of visualization, I was able to see ho
 
 For the third data visualization, I used a line chart that moves as you scroll throughout the years, as to allow the view to see the GDP-to-debt ratio more clearly. I again used the red color to make a clear dichotomy, however I also played around with the font this time and made the title and filters dark black while the x and y axis and labels I kept more grey. I decided to keep the labels grey instead of black after this week's reading "Make Grey your Best Friend". I think this version of the data presentation allowed to view all of the countries together, which I will admit is a bit chaotic, but I think when you break it out into the respective countries, you are better able to see the trends. I also added a trend line to the country to show trend within each country. Once again, I kept this grey as to not ditract from the importance of the red-line which is the main point of the chart. 
 
-[Back to Main Page](/[Assignment 2](/Reige-Portfolio/)
+[Back to Main Page](/Reige-Portfolio/)
